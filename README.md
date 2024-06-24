@@ -13,8 +13,8 @@ A job board app using fastapi
 
 ## How to start the app ?
 ```
-git clone https://github.com/nofoobar/JobBoard-Fastapi.git
-cd .\JobBoard-Fastapi\
+git clone https://github.com/devNinja0909/JobBoard
+cd .\JobBoard\
 python -m venv env   #create a virtual environment
 .\env\Scripts\activate  #activate your virtual environment
 cd .\backend\
@@ -24,7 +24,6 @@ visit  127.0.0.1:8000/
 ```
 
 Features:
- - ✔️ Course [FastAPI Course](https://www.fastapitutorial.com/blog/fastapi-course/)
  - ✔️ Serving Template
  - ✔️ Static Files in Development
  - ✔️ Connecting to Database
